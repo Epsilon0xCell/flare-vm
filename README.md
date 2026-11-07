@@ -1,3 +1,7 @@
+![FLARE-VM banner: a vast concrete hall, in its center a sealed glass and steel workshop cell being stocked shelf by shelf with tool crates in hazard yellow and rust red, a crane hook lowering the last crate, cold blue light through high slits](banner.png)
+
+<p align="center"><img src="logo.png" alt="FLARE-VM logo: a heavy concrete cube with one square window cut into it, inside the window a glowing hazard yellow gear and wrench silhouette" width="200"></p>
+
 # FLARE-VM
 Welcome to FLARE-VM - a collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a virtual machine (VM). FLARE-VM was designed to solve the problem of reverse engineering tool curation and relies on two main technologies: [Chocolatey](https://chocolatey.org) and [Boxstarter](https://boxstarter.org). Chocolatey is a Windows-based Nuget package management system, where a "package" is essentially a ZIP file containing PowerShell installation scripts that download and configure a specific tool. Boxstarter leverages Chocolatey packages to automate the installation of software and create repeatable, scripted Windows environments.
 
